@@ -1,0 +1,10 @@
+pyautogui
+sounddevice
+scipy
+openai-whisper
+pyttsx3
+torch
+scikit-learn
+pandas
+numpy
+streamlit
